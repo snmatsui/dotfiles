@@ -30,6 +30,7 @@ winget install Zoom.Zoom
 # fork
 # winget install vscode
 winget install Docker.DockerDesktop
+winget install GoLang.Go
 
 # benchmark
 winget install CrystalDewWorld.CrystalDiskInfo
