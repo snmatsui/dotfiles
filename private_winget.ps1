@@ -7,6 +7,7 @@ winget install File-New-Project.EarTrumpet
 # - editor
 # clibor
 winget install Kuro.Mery
+winget install Anysphere.Cursor
 
 # - finder
 winget install wiztree
